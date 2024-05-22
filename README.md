@@ -1,12 +1,7 @@
-Sure, here's a sample GitHub README file that explains the purpose of your site and how it helps users find the BIR zonal values. 
-
----
-
 # Zonal Value Finder PH
 
 Welcome to **Zonal Value Finder PH**, your one-stop solution for finding the Bureau of Internal Revenue (BIR) zonal values in the Philippines. Visit our site at [zonalvaluefinderph.com](https://zonalvaluefinderph.com/).
 
-![Zonal Value Finder PH](https://zonalvaluefinderph.com/logo.png) *(Replace with your actual logo URL)*
 
 ## About
 
