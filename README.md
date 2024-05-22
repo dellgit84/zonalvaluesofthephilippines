@@ -42,8 +42,8 @@ Ready to find the zonal value you need? Head over to [zonalvaluefinderph.com](ht
 
 For inquiries, support, or feedback, please reach out to us at:
 - **Email**: support@zonalvaluefinderph.com
-- **Facebook**: [Zonal Value Finder PH](https://www.facebook.com/zonalvaluefinderph)
-- **Twitter**: [@ZonalValuePH](https://twitter.com/zonalvalueph)
+- **Facebook**: [Zonal Value Finder PH](https://www.facebook.com/profile.php?id=61558262219291)
+- **Twitter**: [@ZonalValuePH]()
 
 ## Contributing
 
